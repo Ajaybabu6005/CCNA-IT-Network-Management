@@ -9,7 +9,7 @@ This project showcases the design of a hybrid network topology for an IT company
 - Simulated in Cisco Packet Tracer with 25 routers.
 
 ## Topology Diagram
-![Network Diagram](topology-diagram.png)
+![Network Diagram](topology-diagram.png.jpg)
 
 ## How to Use
 1. Download the project files.
