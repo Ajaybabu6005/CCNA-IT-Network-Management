@@ -13,7 +13,7 @@ Protocols Implemented:
  DHCP, DNS, Telnet, SSH,
  VLAN, Inter-VLAN, FHRP, SNMP,
  VPN, AAA (TACACS+), NAT, DORA,
- Syslog, ACL, IoT
+ Syslog, ACL, IoT, Acesspoint
 
 Development Section: Designed a hierarchical network for three floors with specific communication rules between teams.
 
