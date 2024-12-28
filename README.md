@@ -10,9 +10,9 @@ Routing Protocols: Configured EIGRP, OSPF, and Static routing to ensure optimal 
 VLANs and Inter-VLAN Routing: Implemented VLANs to segment traffic for Developer (VLAN 10), DevOps (VLAN 20), and Testing (VLAN 30) and Team Mangers (Vlan 40) teams, with inter-VLAN routing and trunking for controlled communication.
 
 Protocols Implemented:
- DHCP, DNS, Telnet, SSH
- VLAN, Inter-VLAN, FHRP, SNMP
- VPN, AAA (TACACS+), NAT, DORA
+ DHCP, DNS, Telnet, SSH,
+ VLAN, Inter-VLAN, FHRP, SNMP,
+ VPN, AAA (TACACS+), NAT, DORA,
  Syslog, ACL, IoT
 
 Development Section: Designed a hierarchical network for three floors with specific communication rules between teams.
